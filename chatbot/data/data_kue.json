@@ -1,0 +1,12 @@
+[
+    {"nama": "Kue Lapis Legit", "harga": 45000, "tersedia": true},
+    {"nama": "Bolu Pandan", "harga": 30000, "tersedia": true},
+    {"nama": "Brownies Coklat", "harga": 35000, "tersedia": true},
+    {"nama": "Cheesecake Stroberi", "harga": 55000, "tersedia": true},
+    {"nama": "Tiramisu", "harga": 60000, "tersedia": true},
+    {"nama": "Kue Sus Vla", "harga": 25000, "tersedia": true},
+    {"nama": "Donat Coklat", "harga": 20000, "tersedia": true},
+    {"nama": "Kue Cubit", "harga": 15000, "tersedia": true},
+    {"nama": "Red Velvet Cake", "harga": 50000, "tersedia": true},
+    {"nama": "Klepon", "harga": 12000, "tersedia": true}
+]

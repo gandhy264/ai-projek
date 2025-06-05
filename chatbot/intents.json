@@ -1,0 +1,191 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["halo", "hai", "hello", "pagi", "siang", "sore", "selamat pagi", "selamat siang", "selamat sore", "apa kabar"],
+      "responses": [
+        "Hai! Selamat datang di Toko Kue Kelompok 4. Saya Admin, siap membantu Anda. Apa yang bisa saya bantu?",
+        "Halo! Selamat datang, ada yang bisa saya bantu untuk pesanan kue Anda?",
+        "Selamat datang di Toko Kue Kami! Butuh rekomendasi kue atau ingin memesan langsung?",
+        "Hai! Senang bisa membantu. Mau pesan kue atau lihat menu dulu?",
+        "Halo! Toko Kue Kelompok 4 siap melayani Anda, silakan tanyakan apapun."
+      ]
+    },
+    {
+      "tag": "show_menu",
+      "patterns": ["ada kue apa saja", "apa saja kuenya", "daftar kue", "lihat menu", "list kue", "boleh lihat menu", "ada yang lain", "semua list kuenya", "menu kue", "kue yang dijual apa"],
+      "responses": [
+        "Berikut menu kue kami: Lapis Legit, Brownies Coklat, Cheesecake, Tiramisu, Kue Cubit, Donat Coklat, Klepon, Kue Sus Vla, Bolu Pandan, Red Velvet Cake.",
+        "Kami punya banyak pilihan: Kue Sus Vla, Donat Coklat, Klepon, Bolu Pandan, Red Velvet Cake, dan lainnya.",
+        "Menu kami lengkap! Dari Lapis Legit hingga Cheesecake. Mau lihat semua?",
+        "Silakan pilih dari: Kue Sus, Donat, Brownies, Klepon, Red Velvet, dan masih banyak lagi!",
+        "Tersedia: Lapis Legit, Brownies, Cheesecake, Tiramisu, Kue Cubit, dan lain-lain. Mau coba yang mana?"
+      ]
+    },
+    {
+      "tag": "recommend",
+      "patterns": ["rekomendasikan kue", "lagi nyari kue", "kue enak apa", "bisa rekomendasi ga", "kue favorit", "kue yang paling laku", "saran kue"],
+      "responses": [
+        "Tentu! Kami punya Kue Sus Vla yang lembut dan enak, cocok untuk semua usia!",
+        "Kalau suka manis, coba Donat Coklat atau Red Velvet Cake kami.",
+        "Untuk yang klasik, Lapis Legit atau Klepon sangat direkomendasikan.",
+        "Kue Cubit dan Bolu Pandan juga favorit banyak pelanggan kami!",
+        "Brownies Coklat dan Tiramisu juga bisa jadi pilihan enak buat Anda!"
+      ]
+    },
+    {
+      "tag": "order_kue",
+      "patterns": ["saya mau pesan kue", "saya mau kue sus vla 2", "saya pesan donat 1", "saya beli brownies", "aku pesan red velvet cake", "pesan lapis legit 1", "saya mau bolu pandan", "mau pesan kue", "pesan kue yuk", "saya ingin memesan kue"],
+      "responses": [
+        "Oke, sudah kami catat pesanannya. Mau tambah pesanan lain?",
+        "Pesanan Anda sudah kami simpan. Ingin menambahkan kue lain?",
+        "Baik, catatan pesanan berhasil. Ada lagi yang ingin dipesan?",
+        "Sudah kami catat. Tambah lagi kuenya atau lanjut?",
+        "Pesanannya masuk. Apakah mau ditambahkan lagi?"
+      ]
+    },
+    {
+      "tag": "no_more_order",
+      "patterns": ["tidak", "tidak ada", "itu saja", "cukup", "nggak", "ga ada tambahan", "tidak mau tambah", "selesai pesan", "cukup pesanannya"],
+      "responses": [
+        "Terima kasih. Apakah Anda ingin mengambil di toko atau diantar ke rumah?",
+        "Baik, apakah pesanan akan diambil langsung atau dikirim ke alamat Anda?",
+        "Terima kasih. Pengambilan sendiri atau pengiriman ke rumah?",
+        "Noted. Mau ambil langsung di toko atau kami antar ke tempat Anda?",
+        "Oke. Pilihannya ambil di toko atau dikirim ke rumah, ya?"
+      ]
+    },
+    {
+      "tag": "pickup",
+      "patterns": ["ambil di toko", "saya ambil sendiri", "pickup", "ambil langsung", "saya akan ambil", "mau ambil sendiri", "ambil sendiri di toko", "pengambilan di toko"],
+      "responses": [
+        "Baik, mohon sebutkan nama lengkap Anda untuk catatan. Pesanan bisa diambil 2 jam dari sekarang.",
+        "Siap. Kami akan siapkan untuk diambil. Siapa nama Anda?",
+        "Pesanan bisa diambil 2 jam lagi. Tolong beri nama Anda.",
+        "Oke, kami siapkan. Boleh tahu nama yang akan ambil pesanannya?",
+        "Silakan beri nama lengkap. Kue bisa diambil 2 jam dari sekarang."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": ["kirim ke rumah", "mau diantar", "bisa dikirim", "delivery", "kirim aja", "antar ke rumah", "pengiriman", "antar pesanan"],
+      "responses": [
+        "Boleh. Mohon sebutkan nama lengkap, nomor HP, dan alamat lengkap Anda.",
+        "Tentu bisa. Tolong kirim nama, nomor telepon, dan alamat tujuan ya.",
+        "Siap! Untuk pengiriman, kami butuh nama, no HP, dan alamat lengkap.",
+        "Silakan tulis nama, nomor HP, dan alamat lengkap untuk proses pengiriman.",
+        "Kami akan kirim dalam 2 jam. Tolong beri nama, no HP, dan alamatnya."
+      ]
+    },
+    {
+      "tag": "confirm_transaction",
+      "patterns": ["oke", "baik", "ya", "lanjut", "setuju", "bayar", "konfirmasi", "saya setuju", "oke saya bayar"],
+      "responses": [
+        "Terima kasih. Total pesanan Anda akan kami proses. Kami akan segera kirim nota pembelian.",
+        "Pesanan Anda sudah lengkap. Kami akan kirimkan nota dan informasi pembayaran.",
+        "Nota akan segera dikirimkan ke Anda. Terima kasih sudah memesan di Toko Kue Kami.",
+        "Transaksi akan kami proses. Terima kasih atas kepercayaannya.",
+        "Semua data sudah kami terima. Nota pembelian akan segera dikirimkan."
+      ]
+    },
+    {
+      "tag": "store_hours",
+      "patterns": ["jam berapa buka", "jam operasional", "buka sampai jam berapa", "jam toko buka", "waktu buka toko", "jam buka", "jadwal buka"],
+      "responses": [
+        "Toko kami buka setiap hari dari jam 08.00 sampai 20.00.",
+        "Jam operasional Toko Kue Kami adalah pukul 08.00–20.00.",
+        "Kami melayani Anda setiap hari dari jam 8 pagi sampai 8 malam.",
+        "Buka setiap hari, dari 08.00 hingga 20.00 ya!",
+        "Kami buka jam 8 pagi dan tutup jam 8 malam."
+      ]
+    },
+    {
+      "tag": "tanya_metode",
+      "patterns": ["Mau diambil atau dikirim?", "Pesanan mau diambil atau dikirim?", "Pesanan diambil atau diantar?", "Mau ambil sendiri atau dikirim?", "Pengiriman atau ambil di toko?"],
+      "responses": [
+        "Mau ambil sendiri atau dikirim ke alamat?",
+        "Kamu mau pesan diambil sendiri atau dikirim?",
+        "Pesanan akan diambil sendiri atau dikirim ya?",
+        "Ambil di toko atau antar ke rumah?",
+        "Bagaimana metode pengambilan pesanan Anda?"
+      ]
+    },
+    {
+      "tag": "tanya_nama",
+      "patterns": ["Siapa nama kamu?", "Boleh tahu nama pemesan?", "Nama siapa ya?", "Tolong beri tahu nama pemesan", "Boleh minta nama kamu?"],
+      "responses": [
+        "Boleh tahu nama kamu untuk pesanan ini?",
+        "Nama kamu siapa ya?",
+        "Tolong sebutkan nama lengkap untuk pesanan ini.",
+        "Nama pemesan siapa ya?",
+        "Silakan beri tahu nama untuk pesanan."
+      ]
+    },
+    {
+      "tag": "tanya_hp",
+      "patterns": ["Nomor HP berapa?", "Boleh minta nomor HP?", "Nomor teleponnya berapa?", "Tolong beri nomor HP", "Nomor HP untuk kontak?"],
+      "responses": [
+        "Boleh minta nomor HP kamu untuk pengiriman?",
+        "Nomor HPnya berapa ya?",
+        "Tolong sebutkan nomor telepon untuk pengiriman.",
+        "Nomor HP untuk kontak pengiriman?",
+        "Mohon berikan nomor HP agar kami bisa menghubungi."
+      ]
+    },
+    {
+      "tag": "tanya_alamat",
+      "patterns": ["Alamat lengkapnya?", "Dimana alamat pengiriman?", "Tolong beri alamat lengkap", "Alamat tujuan pengiriman?", "Alamat rumah kamu di mana?"],
+      "responses": [
+        "Tolong kasih alamat lengkapnya ya.",
+        "Alamat lengkapnya di mana?",
+        "Silakan tulis alamat lengkap untuk pengiriman.",
+        "Dimana alamat tujuan pengiriman Anda?",
+        "Mohon berikan alamat lengkap agar pesanan bisa kami antar."
+      ]
+    },
+    {
+      "tag": "konfirmasi_ambil",
+      "patterns": ["pesanan sudah siap ambil", "ambil kue", "ambil pesanan", "pesanan untuk diambil", "ambil di toko"],
+      "responses": [
+        "Terima kasih, pesanan Anda siap diambil dalam 2 jam.",
+        "Pesanan sudah dicatat dan bisa diambil jam 2 nanti.",
+        "Pesanan Anda akan siap diambil 2 jam dari sekarang.",
+        "Kami akan siapkan pesanan untuk diambil dalam 2 jam.",
+        "Pesanan sudah diproses, silakan ambil dalam 2 jam."
+      ]
+    },
+    {
+      "tag": "konfirmasi_kirim",
+      "patterns": ["pesanan akan dikirim", "kue dikirim", "pesanan delivery", "antar pesanan", "pesanan untuk diantar"],
+      "responses": [
+        "Pesanan akan dikirim dalam 2 jam, terima kasih!",
+        "Kami akan mengantar pesanan ke alamat kamu dalam 2 jam.",
+        "Pesanan sedang diproses dan akan sampai dalam 2 jam.",
+        "Pesanan akan tiba di alamat dalam waktu 2 jam.",
+        "Terima kasih, pesanan kamu akan kami antar dalam 2 jam."
+      ]
+    },
+    {
+      "tag": "tanya_pesan",
+      "patterns": ["apa yang bisa saya pesan?", "kue apa yang ingin Anda pesan?", "mau pesan kue apa?", "ingin memesan kue", "pesan kue apa?"],
+      "responses": [
+        "Kue apa yang ingin Anda pesan?",
+        "Mau pesan kue apa hari ini?",
+        "Silakan pilih kue yang ingin dipesan.",
+        "Apa jenis kue yang Anda inginkan?",
+        "Beritahu saya kue favorit Anda untuk dipesan."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "Maaf, saya kurang mengerti. Bisa ulangi dengan kata lain?",
+        "Mohon maaf, saya belum paham.",
+        "Saya belum mengerti maksud Anda, coba dijelaskan lagi ya.",
+        "Maaf, bisa diulangi dengan kata yang berbeda?",
+        "Saya kurang paham, boleh coba tanya dengan cara lain?"
+      ]
+    }
+  ]
+}

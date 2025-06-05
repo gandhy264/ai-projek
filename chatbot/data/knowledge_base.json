@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "diskon",
+            "patterns": ["apakah kalian ada diskon?", "ada diskon?"],
+            "responses": ["Untuk saat ini belum ada diskon ya, tapi pantau terus promonya!"]
+        },
+        {
+            "tag": "lokasi",
+            "patterns": ["toko kalian di mana?", "toko kalian dimana ya"],
+            "responses": ["Kami adalah toko online. Pesanan bisa diambil langsung atau diantar."]
+        }
+    ]
+}
