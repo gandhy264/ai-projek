@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kelompok 4 Toko Kue Kami</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="chat-container">
+    <h2>🍰 Kelompok 4 Toko Kue Kami</h2>
+
+    <div class="chat-box" id="chat-box">
+      <!-- Chat akan ditampilkan via JS -->
+    </div>
+
+    <form id="chat-form" class="chat-form">
+      <input type="text" id="user-input" name="user_input" placeholder="Tulis pesan di sini..." required autocomplete="off" />
+      <button type="submit">Kirim</button>
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

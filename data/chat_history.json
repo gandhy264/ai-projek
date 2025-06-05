@@ -1,0 +1,1592 @@
+[
+    {
+        "waktu": "2025-05-17 13:21:43",
+        "user": "test",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:21:46",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:22:12",
+        "user": "saya lagi cari kue ni",
+        "bot": "- Kue Lapis Legit : Rp45000\n- Bolu Pandan : Rp30000\n- Brownies Coklat : Rp35000\n- Cheesecake Stroberi : Rp55000\n- Tiramisu : Rp60000\n- Kue Sus Vla : Rp25000\n- Donat Coklat : Rp20000\n- Kue Cubit : Rp15000\n- Red Velvet Cake : Rp50000\n- Klepon : Rp12000"
+    },
+    {
+        "waktu": "2025-05-17 13:22:29",
+        "user": "oke bye",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:22:32",
+        "user": "bye",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:22:35",
+        "user": "dada",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:22:38",
+        "user": "keluar",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:22:53",
+        "user": "termikasi saya sudah dapat pesanan",
+        "bot": "Baik, kami mencatat pesanan Anda: 'termikasi saya sudah dapat pesanan'.\nTim kami akan segera menghubungi Anda untuk konfirmasi."
+    },
+    {
+        "waktu": "2025-05-17 13:22:59",
+        "user": "danke",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:28:05",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:28:14",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:41:34",
+        "user": "halo selamat pagi",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:41:54",
+        "user": "aku lagi nyari kue ni",
+        "bot": "- Kue Lapis Legit : Rp45000\n- Bolu Pandan : Rp30000\n- Brownies Coklat : Rp35000\n- Cheesecake Stroberi : Rp55000\n- Tiramisu : Rp60000\n- Kue Sus Vla : Rp25000\n- Donat Coklat : Rp20000\n- Kue Cubit : Rp15000\n- Red Velvet Cake : Rp50000\n- Klepon : Rp12000"
+    },
+    {
+        "waktu": "2025-05-17 13:48:16",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:53:08",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-17 13:53:11",
+        "user": "saya pengen bluder kejju dong kakkk",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:53:18",
+        "user": "saya pengen bluder kejju dong kakkk",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:53:21",
+        "user": "halo",
+        "bot": "Halo, selamat datang di Toko Kue Kami!"
+    },
+    {
+        "waktu": "2025-05-17 13:53:29",
+        "user": "saya ingin pesan kue ni",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-05-17 13:53:46",
+        "user": "saya pengen bluder kejju dong kak'",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-17 13:54:09",
+        "user": "saya ingin pesan kue ni",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-05-17 13:54:18",
+        "user": "iya itu maksud saya",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-18 16:26:41",
+        "user": "halo",
+        "bot": "Halo, selamat datang di Toko Kue Kami!"
+    },
+    {
+        "waktu": "2025-05-18 16:26:44",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-18 16:26:45",
+        "user": "hey",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-18 16:26:57",
+        "user": "hey adalah untuk sapaan",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-18 16:27:05",
+        "user": "hola",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-20 13:42:14",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-05-20 13:42:35",
+        "user": "saya mau pesan kue ada kue apa saja",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-05-20 13:42:45",
+        "user": "ada kue apa saja bro",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-05-20 13:42:56",
+        "user": "tidak mau yang lain bro",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-05-20 13:42:58",
+        "user": "tidak",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 07:49:32",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 07:50:19",
+        "user": "saya lagi cari kue ni",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 07:50:32",
+        "user": "tidak saya mau yang lainya",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 07:51:21",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 07:51:36",
+        "user": "selamat pagi kak aku lagi nyari kue ni",
+        "bot": "Selamat datang di Kelompok 4 Toko Kue Kami, mau pesan kue apa hari ini?"
+    },
+    {
+        "waktu": "2025-06-05 07:52:06",
+        "user": "masi binung si kak, ada kue apa saja ya kak",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:04:20",
+        "user": "tets",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:04:54",
+        "user": "halo saya hanli ada, saya ingin memesan kue",
+        "bot": "Halo, selamat datang di Toko Kue Kami!"
+    },
+    {
+        "waktu": "2025-06-05 08:07:00",
+        "user": "saya hanli dan saya ingin memesan kue, apa ada listnya",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:07:16",
+        "user": "saya ingin memesan kue bro",
+        "bot": "Halo! Senang bertemu dengan Anda. Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 08:12:36",
+        "user": "ada promo apa hari ini?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:13:28",
+        "user": "halo",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:14:12",
+        "user": "apakah hari ini tokonya tetap buka",
+        "bot": "Toko kami buka Senin\u2013Sabtu, pukul 09.00\u201321.00. Minggu kami libur ya!"
+    },
+    {
+        "waktu": "2025-06-05 08:14:44",
+        "user": "kalau minggu apakah bisa tetap pesan kue atau tidak?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:16:28",
+        "user": "toko kalian di mana ya?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:17:34",
+        "user": "apa kabar kamu?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:17:40",
+        "user": "apa kabar",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:18:03",
+        "user": "saya mau pesan kue ni",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 08:21:32",
+        "user": "promo apa hari ini",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:21:37",
+        "user": "adakah promo",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:21:57",
+        "user": "halo",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:22:13",
+        "user": "saya lagi cari kue, dan apakah ada promo?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 08:24:41",
+        "user": "halo",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:25:13",
+        "user": "saya lagi nyari kue ni, di sini ada kue apa saja ya? promo juga ada kah?",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 08:27:42",
+        "user": "saya lagi nyari kue ni, di sini ada kue apa saja ya? promo juga ada kah?",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:27:48",
+        "user": "saya lagi nyari kue ni, di sini ada kue apa saja ya? promo juga ada kah?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nPromo saat ini: Diskon 10% untuk pembelian minimal 2 kue.\n\nApakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 08:28:26",
+        "user": "saya ingin pesan kue, mau tau ada kue apa aja di sini",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 08:29:02",
+        "user": "untuk harganya>",
+        "bot": "Silakan sebutkan nama kue-nya, ya! Saya akan beri tahu harganya."
+    },
+    {
+        "waktu": "2025-06-05 08:29:25",
+        "user": "saya ingin kue lapis legit",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nApakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 08:31:29",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:31:42",
+        "user": "selamat pagi juga, saya lagi nyari kue ni",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nHalo, selamat datang di Toko Kue Kami!"
+    },
+    {
+        "waktu": "2025-06-05 08:32:07",
+        "user": "saya mau kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 08:32:18",
+        "user": "ya saya mau itu",
+        "bot": "Maaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 08:32:48",
+        "user": "saya mau kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 08:32:54",
+        "user": "ya saya mau itu",
+        "bot": "Maaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 08:33:57",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:34:12",
+        "user": "saya lagi mau cari kue ni, dan apakah ada diskon?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nApakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 08:34:50",
+        "user": "tidak saya maunya kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 08:34:54",
+        "user": "ya",
+        "bot": "Maaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 08:36:38",
+        "user": "hi",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:37:08",
+        "user": "saya ingin pesan kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 08:39:06",
+        "user": "ada kue apa saja",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 08:39:33",
+        "user": "saya mau kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 08:39:44",
+        "user": "ya",
+        "bot": "Maaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 08:41:51",
+        "user": "saya ingin pesan kue lapis legit",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:42:01",
+        "user": "saya ingin pesan kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 08:42:05",
+        "user": "ya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 08:43:34",
+        "user": "halo",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:45:16",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:45:29",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:46:02",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:47:02",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:48:25",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:49:05",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:49:41",
+        "user": "ya aku hanli kak, ada kue apa saja?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 08:51:48",
+        "user": "minta list daftar kue dong kak",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:52:00",
+        "user": "disini jual kue apa saja ya kak",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nKami punya banyak pilihan kue lezat untuk Anda! Berikut adalah daftar kue kami:\n1. Kue Lapis Legit : Rp45000\n2. Bolu Pandan : Rp30000\n3. Brownies Coklat : Rp35000\n4. Cheesecake Stroberi : Rp55000\n5. Tiramisu : Rp60000\n6. Kue Sus Vla : Rp25000\n7. Donat Coklat : Rp20000\n8. Kue Cubit : Rp15000\n9. Red Velvet Cake : Rp50000\n10. Klepon : Rp12000"
+    },
+    {
+        "waktu": "2025-06-05 08:54:49",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:54:55",
+        "user": "halo",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:55:02",
+        "user": "halo",
+        "bot": "Halo, selamat datang di Toko Kue Kami!"
+    },
+    {
+        "waktu": "2025-06-05 08:55:07",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:55:26",
+        "user": "saya lagi nyari kue ni, ada jual apa saja",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nKami punya banyak pilihan kue lezat untuk Anda! Berikut adalah daftar kue kami:\n1. Kue Lapis Legit : Rp45000\n2. Bolu Pandan : Rp30000\n3. Brownies Coklat : Rp35000\n4. Cheesecake Stroberi : Rp55000\n5. Tiramisu : Rp60000\n6. Kue Sus Vla : Rp25000\n7. Donat Coklat : Rp20000\n8. Kue Cubit : Rp15000\n9. Red Velvet Cake : Rp50000\n10. Klepon : Rp12000\n\nSilakan pilih kue yang Anda inginkan dengan menyebutkan namanya."
+    },
+    {
+        "waktu": "2025-06-05 08:57:55",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 08:58:04",
+        "user": "saya ingin pesan kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 09:00:24",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:00:27",
+        "user": "ada kue apa saja",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 09:00:37",
+        "user": "saya mau pesan kue lapis legit 1",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:00:41",
+        "user": "iya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 09:01:02",
+        "user": "saya mau pesan 1 kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:01:05",
+        "user": "iya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 09:01:13",
+        "user": "saya ingin pesan kue lapis legit 1",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:02:18",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:02:27",
+        "user": "saya ingin beli kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, daftar kue sedang tidak tersedia."
+    },
+    {
+        "waktu": "2025-06-05 09:02:38",
+        "user": "kue lapis legit boleh de",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:02:44",
+        "user": "iya itu maskud saya",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:09:06",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:10:22",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:13:51",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:14:04",
+        "user": "saya ingin pesan kue, ada kue apa saja ya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 09:14:36",
+        "user": "saya mau dong kue lapis legitnya 1, dan bolu pandan juga 1",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:21:12",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:23:59",
+        "user": "test",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:24:34",
+        "user": "halo",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:26:26",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:33:44",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:33:48",
+        "user": "test",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:33:52",
+        "user": "hai",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:33:55",
+        "user": "halo",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:33:59",
+        "user": "saya ingin pesan kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 09:34:04",
+        "user": "hai",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:34:25",
+        "user": "ada kue apa saja",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 09:34:37",
+        "user": "saya mau pesan kue lapis legit 1",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:34:44",
+        "user": "iya maksud saya itu",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:35:06",
+        "user": "tolong saya ingin pesan kue lapis legit 1",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 09:35:14",
+        "user": "iya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 09:35:24",
+        "user": "1",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:36:16",
+        "user": "toko ini bukanya hari apa saja ya?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 09:36:33",
+        "user": "apakah ada diskon hari ini",
+        "bot": "Promo saat ini: Diskon 10% untuk pembelian minimal 2 kue."
+    },
+    {
+        "waktu": "2025-06-05 09:36:48",
+        "user": "kalo begitu saya ingin pesan 2 kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n"
+    },
+    {
+        "waktu": "2025-06-05 09:37:10",
+        "user": "saya ingin pesan kue lepis legit 1 dan bolu pandan 1 juga",
+        "bot": "Apakah maksud Anda 'Bolu Pandan'? Harganya Rp30000"
+    },
+    {
+        "waktu": "2025-06-05 09:37:33",
+        "user": "ya saya pesan dua kue 1 kue lepis keju dan 1 bolu pandan",
+        "bot": "Apakah maksud Anda 'Bolu Pandan'? Harganya Rp30000"
+    },
+    {
+        "waktu": "2025-06-05 09:39:36",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:44:56",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:47:07",
+        "user": "halo",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 09:58:26",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 10:08:02",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 10:10:15",
+        "user": "hai",
+        "bot": "Selamat pagi! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:20:59",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:30:47",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:32:11",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:33:39",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:39:37",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:54:34",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:55:34",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:56:43",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 11:59:39",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:12:36",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:13:23",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:13:28",
+        "user": "saya mau pesan kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 12:13:51",
+        "user": "saya ingin kue lapis legitnya 1 ya",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 12:13:54",
+        "user": "ya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 12:14:04",
+        "user": "1",
+        "bot": "Berapa jumlah yang ingin Anda pesan?"
+    },
+    {
+        "waktu": "2025-06-05 12:14:07",
+        "user": "1",
+        "bot": "Berapa jumlah yang ingin Anda pesan?"
+    },
+    {
+        "waktu": "2025-06-05 12:14:23",
+        "user": "saya ingin pesan 1 kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 12:14:26",
+        "user": "iya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 12:18:24",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:18:27",
+        "user": "hai",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:18:55",
+        "user": "ya saya lagi cari kue, tapi masi bingung boleh lihat menunya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nTentu, silakan sebutkan kue tambahan yang ingin Anda pesan."
+    },
+    {
+        "waktu": "2025-06-05 12:19:32",
+        "user": "saya ingin pesan kue sus vla, dan donat coklat",
+        "bot": "Apakah maksud Anda 'Kue Sus Vla'? Harganya Rp25000"
+    },
+    {
+        "waktu": "2025-06-05 12:19:42",
+        "user": "iya itu maksud saya",
+        "bot": "Baik, kami akan melanjutkan pesanan Anda."
+    },
+    {
+        "waktu": "2025-06-05 12:26:55",
+        "user": "halo admin",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:27:14",
+        "user": "halo admin",
+        "bot": "Hai! Selamat datang, semoga hari Anda menyenangkan. Ada yang bisa kami bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:27:25",
+        "user": "halo",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda?"
+    },
+    {
+        "waktu": "2025-06-05 12:31:29",
+        "user": "halo bro",
+        "bot": "Halo! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:34:41",
+        "user": "halo admin",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda?"
+    },
+    {
+        "waktu": "2025-06-05 12:34:44",
+        "user": "halo",
+        "bot": "Halo! Senang bertemu dengan Anda. Apa yang bisa kami bantu hari ini?"
+    },
+    {
+        "waktu": "2025-06-05 12:34:46",
+        "user": "hai",
+        "bot": "Halo! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:34:50",
+        "user": "halo admin",
+        "bot": "Halo! Senang bertemu dengan Anda. Apa yang bisa kami bantu hari ini?"
+    },
+    {
+        "waktu": "2025-06-05 12:36:40",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:36:45",
+        "user": "halo admin",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda? Toko kami beroperasi setiap hari dari jam 08.00 hingga 20.00."
+    },
+    {
+        "waktu": "2025-06-05 12:38:47",
+        "user": "hai",
+        "bot": "Halo! Selamat datang di Toko Kue Kami. Saya Admin toko kue ini. Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:40:09",
+        "user": "halo admin",
+        "bot": "Halo! Selamat datang di Toko Kue Kami. Saya Admin toko kue ini. Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:41:46",
+        "user": "halo juga, namaku hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:41:56",
+        "user": "saya ingin cari kue ni",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nBerikut adalah menu kue kami yang tersedia saat ini:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nSilakan pilih kue yang Anda inginkan!"
+    },
+    {
+        "waktu": "2025-06-05 12:42:02",
+        "user": "saya ingin cari kue ni",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nTentu saja! Ini daftar kue yang kami tawarkan:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nKue mana yang ingin Anda pesan?"
+    },
+    {
+        "waktu": "2025-06-05 12:42:29",
+        "user": "apakah ada daftar kue,",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nTentu saja! Ini daftar kue yang kami tawarkan:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nKue mana yang ingin Anda pesan?"
+    },
+    {
+        "waktu": "2025-06-05 12:43:10",
+        "user": "halo juga",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:45:17",
+        "user": "aku lagi nyari kue ni, tapi masi bingung. disini jualnya kue apa aja?",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:49:25",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 12:50:03",
+        "user": "selamat siang juga, aku lagi nyari kue. apa ada list kuenya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nBerikut adalah menu kue kami yang tersedia saat ini:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nSilakan pilih kue yang Anda inginkan!"
+    },
+    {
+        "waktu": "2025-06-05 12:50:28",
+        "user": "selain ini apakah ada lagi",
+        "bot": "Baik, kue apa yang ingin Anda tambahkan?"
+    },
+    {
+        "waktu": "2025-06-05 12:52:45",
+        "user": "apa ada otak-otak",
+        "bot": "Toko kami berlokasi di Jalan Mawar No. 123, Jakarta."
+    },
+    {
+        "waktu": "2025-06-05 12:54:44",
+        "user": "apa ada kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 12:54:56",
+        "user": "ada list kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nTentu saja! Ini daftar kue yang kami tawarkan:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nKue mana yang ingin Anda pesan?"
+    },
+    {
+        "waktu": "2025-06-05 12:55:04",
+        "user": "hanya apakah ada yang lain?",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 12:55:55",
+        "user": "halo",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda? Toko kami beroperasi setiap hari dari jam 08.00 hingga 20.00."
+    },
+    {
+        "waktu": "2025-06-05 12:56:32",
+        "user": "saya sedang cari kue, disini jual kue apa saja ya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nTentu saja! Ini daftar kue yang kami tawarkan:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nKue mana yang ingin Anda pesan?"
+    },
+    {
+        "waktu": "2025-06-05 12:56:38",
+        "user": "apakah ada kue selain ini",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nBerikut adalah menu kue kami yang tersedia saat ini:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nSilakan pilih kue yang Anda inginkan!"
+    },
+    {
+        "waktu": "2025-06-05 12:58:54",
+        "user": "apakah ada kue yang lain?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nBerikut adalah menu kue kami yang tersedia saat ini:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nSilakan pilih kue yang Anda inginkan!"
+    },
+    {
+        "waktu": "2025-06-05 12:59:55",
+        "user": "hallo kak",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:00:24",
+        "user": "saya ingin pesan kue kak",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nSaya baik, terima kasih! Bagaimana dengan Anda?"
+    },
+    {
+        "waktu": "2025-06-05 13:00:56",
+        "user": "saya ingin pesan tapi apakah ada yang lain selain list kue ini",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nBerikut adalah menu kue kami yang tersedia saat ini:\n\nBrownies\nChiffon Cake\nRed Velvet\nTiramisu\n\nSilakan pilih kue yang Anda inginkan!"
+    },
+    {
+        "waktu": "2025-06-05 13:04:57",
+        "user": "nama ku hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:05:23",
+        "user": "saya lagi nyari kue, ada apa saja?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:05:42",
+        "user": "ada kue apa saja>",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:10:33",
+        "user": "nama saya hanli, lagi cari kue ni aku. ada kue apa saja?",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:15:55",
+        "user": "senang juga beremu kau, nama ku hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:16:05",
+        "user": "saya lagi nyari kue, ada kue apa saja ya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:16:44",
+        "user": "boleh lihat list kuenya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:18:06",
+        "user": "nama saya hanli, dan senang bertemu dengan kamu",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:18:23",
+        "user": "saya lagi nyari kue, ada kue apa saja disini?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:19:00",
+        "user": "ada kue apa saja disnin",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:23:19",
+        "user": "saya hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:23:29",
+        "user": "saya mau beli kue, ada kue apa saja?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:29:28",
+        "user": "namaku hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:29:46",
+        "user": "saya ingin beli kue, ada kue apa aja?",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:30:46",
+        "user": "ada kue apa saja",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:31:08",
+        "user": "saya ingin beli kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 13:31:43",
+        "user": "ya boleh beli 1",
+        "bot": "Maaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:32:01",
+        "user": "ya boleh beli 1 kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:32:11",
+        "user": "kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 13:32:13",
+        "user": "ya",
+        "bot": "Berapa jumlah 'Kue Lapis Legit' yang ingin Anda pesan? Silakan masukkan jumlah pesanan Anda dan biodata untuk lokasi pengantaran."
+    },
+    {
+        "waktu": "2025-06-05 13:32:15",
+        "user": "1",
+        "bot": "Maaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:49:50",
+        "user": "nama ku hanli, senang bertemu denganmu juga",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 13:50:10",
+        "user": "saya ingin membeli kue, apa ada listnya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 13:50:38",
+        "user": "minta list kue yang di jual",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 14:00:55",
+        "user": "namaku hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:01:14",
+        "user": "saya ingin memesan kue ni, apakah boleh saya tau listnya",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 14:01:27",
+        "user": "aku mau beli kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 14:01:40",
+        "user": "boleh saya beli kue lapis legit",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 14:01:45",
+        "user": "ya itu maksud saya",
+        "bot": "Maaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 14:02:09",
+        "user": "maksud saya saya ingin membeli kue lapis legitnya 1",
+        "bot": "Apakah maksud Anda 'Kue Lapis Legit'? Harganya Rp45000"
+    },
+    {
+        "waktu": "2025-06-05 14:02:16",
+        "user": "baik saya pesan 1",
+        "bot": "Maaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 14:08:56",
+        "user": "nama saya hanli",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:09:05",
+        "user": "saya mau membli kue",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n\nMaaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:22:10",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:22:19",
+        "user": "saya ingin pesan kue",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:23:00",
+        "user": "saya ingin pesan kue",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:25:15",
+        "user": "hai",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:25:21",
+        "user": "saya ingin beli kue ni",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya tidak mengerti. Bisa diulangi?"
+    },
+    {
+        "waktu": "2025-06-05 14:33:29",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:33:34",
+        "user": "saya lagi nyari kue",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:34:00",
+        "user": "maksud saya saya ingin membeli kue dan mau lihat daftar kuenya",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Kami memiliki berbagai macam kue yang lezat! Berikut daftar kue kami:\n\nKue Lapis Legit\nBolu Pandan\nBrownies Coklat\nCheesecake Stroberi\nTiramisu\nKue Sus Vla\nDonat Coklat\nKue Cubit\nRed Velvet Cake\nKlepon\n\nMau pesan yang mana?"
+    },
+    {
+        "waktu": "2025-06-05 14:34:32",
+        "user": "saya pengen pesan kue Bolu Pandan",
+        "bot": "Apakah maksud Anda 'Bolu Pandan'? Harganya Rp30000"
+    },
+    {
+        "waktu": "2025-06-05 14:34:40",
+        "user": "ya itu maksdu saya",
+        "bot": "Baik, kami akan melanjutkan pesanan Anda."
+    },
+    {
+        "waktu": "2025-06-05 14:35:22",
+        "user": "apakah kamu perlu nomor atau alamat saya untuk pengiriman, karena saya ingin antarkan ke rumah atau tempat tinggal saya",
+        "bot": "Pesanan Anda untuk satu kue sudah dicatat. Apakah Anda ingin menambahkan pesanan lainnya atau lanjut ke pembayaran?"
+    },
+    {
+        "waktu": "2025-06-05 14:36:08",
+        "user": "saya mau lanjutkan ke pemabyaran saja",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:36:35",
+        "user": "maksudnya saya tidak ingin lagi memesan selain kue bolu pandan jadi saya ingin melakukan pembayarayan",
+        "bot": "Apakah maksud Anda 'Bolu Pandan'? Harganya Rp30000"
+    },
+    {
+        "waktu": "2025-06-05 14:44:31",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:44:37",
+        "user": "saya lagi nyari kue",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:44:52",
+        "user": "maksud saya memang mau pesan kue dan butuh listnya",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:45:23",
+        "user": "maksudnya saya karena saya ingin membeli kue, jadi saya perlu list kuenya",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:45:34",
+        "user": "apakah ada kue lainya juga",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:51:28",
+        "user": "halo",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:51:39",
+        "user": "saya mau beli kue ni",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon"
+    },
+    {
+        "waktu": "2025-06-05 14:52:16",
+        "user": "saya ingin membeli Tiramisu",
+        "bot": "Apakah maksud Anda 'Tiramisu'? Harganya Rp60000"
+    },
+    {
+        "waktu": "2025-06-05 14:52:24",
+        "user": "ya ",
+        "bot": "Pesanan Anda telah dikonfirmasi."
+    },
+    {
+        "waktu": "2025-06-05 14:52:34",
+        "user": "oke itu saya beli 1 ya",
+        "bot": "Baik, Anda ingin memesan 1 kue. Silakan pilih metode pembayaran: COD atau transfer."
+    },
+    {
+        "waktu": "2025-06-05 14:53:07",
+        "user": "saya nanti bayaranya COD saya karena mau kesana sklian untuk ambil kuenya",
+        "bot": "Metode pembayaran Anda telah dicatat. Apakah Anda ingin mengirimkan kue ke rumah atau mengambilnya di toko?"
+    },
+    {
+        "waktu": "2025-06-05 14:53:27",
+        "user": "saya ingin mengambilnya di toko sebentar",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:53:42",
+        "user": "maksudnya kue yang saya pesan nanti di ambil di toko saja",
+        "bot": "Baik, pesanan Anda akan siap di toko pada waktu yang Anda tentukan. Terima kasih!"
+    },
+    {
+        "waktu": "2025-06-05 14:53:49",
+        "user": "sama-sama",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:54:18",
+        "user": "sama-sama maksudnya adalah untuk mengakhiri percakapan atau hanya sekedar menjawab terimakasih",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:54:33",
+        "user": "oke untuk lokasinya apakah saya boleh tau",
+        "bot": "Baik, kami akan melanjutkan pesanan Anda."
+    },
+    {
+        "waktu": "2025-06-05 14:54:40",
+        "user": "lokasi tokonnya dimana ya",
+        "bot": "Baik, kami akan melanjutkan pesanan Anda."
+    },
+    {
+        "waktu": "2025-06-05 14:54:49",
+        "user": "loakasi tokohnya dimana ya",
+        "bot": "Baik, kami akan melanjutkan pesanan Anda."
+    },
+    {
+        "waktu": "2025-06-05 14:56:36",
+        "user": "\"/Users/macbookpro/Penting/Projek/Latihan Pribadi/kelompok4_toko_kue/chatbot_env/bin/python\" \"/Users/macbookpro/Penting/Projek/Latihan Pribadi/kelompok4_toko_kue/chatbot/chatbot.py\"",
+        "bot": "Baik, Anda ingin memesan 44 kue. Silakan pilih metode pembayaran: COD atau transfer."
+    },
+    {
+        "waktu": "2025-06-05 14:56:38",
+        "user": "\"/Users/macbookpro/Penting/Projek/Latihan Pribadi/kelompok4_toko_kue/chatbot_env/bin/python\" \"/Users/macbookpro/Penting/Projek/Latihan Pribadi/kelompok4_toko_kue/chatbot/chatbot.py\"",
+        "bot": "Baik, Anda ingin memesan 44 kue. Silakan pilih metode pembayaran: COD atau transfer."
+    },
+    {
+        "waktu": "2025-06-05 14:56:53",
+        "user": "hal",
+        "bot": "Selamat siang! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 14:57:06",
+        "user": "saya lagi nyari kue ni, ada kue apa saja",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Kami memiliki berbagai macam kue yang lezat! Berikut daftar kue kami:\n\nKue Lapis Legit\nBolu Pandan\nBrownies Coklat\nCheesecake Stroberi\nTiramisu\nKue Sus Vla\nDonat Coklat\nKue Cubit\nRed Velvet Cake\nKlepon\n\nMau pesan yang mana?"
+    },
+    {
+        "waktu": "2025-06-05 14:57:31",
+        "user": "mau yang klepon dong 1",
+        "bot": "Apakah maksud Anda 'Klepon'? Harganya Rp12000"
+    },
+    {
+        "waktu": "2025-06-05 14:57:41",
+        "user": "iya klepon 1 buah",
+        "bot": "Apakah maksud Anda 'Klepon'? Harganya Rp12000"
+    },
+    {
+        "waktu": "2025-06-05 14:57:45",
+        "user": "iya ",
+        "bot": "Baik, kami akan melanjutkan pesanan Anda."
+    },
+    {
+        "waktu": "2025-06-05 14:57:49",
+        "user": "siap",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:58:01",
+        "user": "saya akan bayar pakai apa ya?",
+        "bot": "Kami menerima pembayaran melalui transfer bank, QRIS, dan COD (Cash On Delivery)."
+    },
+    {
+        "waktu": "2025-06-05 14:58:17",
+        "user": "oke mungkin nanti saya bayarnya COD saja ya",
+        "bot": "Metode pembayaran Anda telah dicatat. Apakah Anda ingin mengirimkan kue ke rumah atau mengambilnya di toko?"
+    },
+    {
+        "waktu": "2025-06-05 14:58:32",
+        "user": "saya ingin mengambilnya di ruma saja",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 14:58:48",
+        "user": "maksudnya ingin mengambil kue yang saya pesan di antar ke ruma saya",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 16:12:54",
+        "user": "nama saya hanli",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:13:03",
+        "user": "saya ingin membeli kue",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 16:13:32",
+        "user": "maksdu saya iya saya ingin membeli kue yang ada berikan listnya ini",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 16:18:30",
+        "user": "saya mau pesan kue ni, tokonya hari ini buka ga ya",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:19:48",
+        "user": "saya ingin membli kue, apakah toko kue ini hari ini buka?",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:21:34",
+        "user": "saya lagi nyari kue, apakah toko ini buka?",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:23:12",
+        "user": "halo",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:23:15",
+        "user": "halo",
+        "bot": "Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:23:19",
+        "user": "halo",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda? Toko kami beroperasi setiap hari dari jam 08.00 hingga 20.00."
+    },
+    {
+        "waktu": "2025-06-05 16:23:22",
+        "user": "halo",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda? Toko kami beroperasi setiap hari dari jam 08.00 hingga 20.00."
+    },
+    {
+        "waktu": "2025-06-05 16:24:45",
+        "user": "halo",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:24:47",
+        "user": "halo",
+        "bot": "Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:25:27",
+        "user": "saya lagi nyari kue ni, disini jual kuenya apa saja?",
+        "bot": "Saya menemukan beberapa informasi yang relevan:\nBerikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon\n\n- Berikut adalah menu kue kami yang tersedia saat ini:\n\nKue Lapis Legit\nBolu Pandan\nBrownies Coklat\nCheesecake Stroberi\nTiramisu\nKue Sus Vla\nDonat Coklat\nKue Cubit\nRed Velvet Cake\nKlepon\n\nSilakan pilih kue yang Anda inginkan!"
+    },
+    {
+        "waktu": "2025-06-05 16:26:02",
+        "user": "saya mau pesan kue lapis kejunya 1 dong",
+        "bot": "Baik, Anda ingin memesan 1 kue. Silakan pilih metode pembayaran: COD atau transfer."
+    },
+    {
+        "waktu": "2025-06-05 16:26:43",
+        "user": "nanti saya bayarnya cod aja ya, sklian saya mau ambil di tokonya saja",
+        "bot": "Metode pembayaran Anda telah dicatat. Apakah Anda ingin mengirimkan kue ke rumah atau mengambilnya di toko?"
+    },
+    {
+        "waktu": "2025-06-05 16:26:58",
+        "user": "saya ambil di toko saja",
+        "bot": "Baik, pesanan Anda akan siap di toko pada waktu yang Anda tentukan. Lokasi toko kami: Jalan Mawar No. 123, Jakarta. Terima kasih!"
+    },
+    {
+        "waktu": "2025-06-05 16:27:22",
+        "user": "sama-sama, apakah saya bisa pesan kue lebih dari 1",
+        "bot": "Baik, Anda ingin memesan 1 kue. Silakan pilih metode pembayaran: COD atau transfer."
+    },
+    {
+        "waktu": "2025-06-05 16:30:11",
+        "user": "halo",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:30:17",
+        "user": "saya ingin beli kue dong",
+        "bot": "Berikut adalah daftar kue yang tersedia:\n- Kue Lapis Legit\n- Bolu Pandan\n- Brownies Coklat\n- Cheesecake Stroberi\n- Tiramisu\n- Kue Sus Vla\n- Donat Coklat\n- Kue Cubit\n- Red Velvet Cake\n- Klepon"
+    },
+    {
+        "waktu": "2025-06-05 16:35:49",
+        "user": "halo",
+        "bot": "Selamat sore! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:35:52",
+        "user": "halo",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda? Toko kami beroperasi setiap hari dari jam 08.00 hingga 20.00."
+    },
+    {
+        "waktu": "2025-06-05 16:37:54",
+        "user": "halo",
+        "bot": "Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:38:47",
+        "user": "halo bro",
+        "bot": "Hai! Admin di sini, bagaimana saya bisa membantu Anda? Toko kami beroperasi setiap hari dari jam 08.00 hingga 20.00."
+    },
+    {
+        "waktu": "2025-06-05 16:39:07",
+        "user": "halo",
+        "bot": "Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:41:27",
+        "user": "halo bro",
+        "bot": "Toko kami buka setiap hari dari jam 08.00 sampai 20.00. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:46:25",
+        "user": "hai",
+        "bot": "Hai! Selamat datang di Toko Kue Kelompok 4. Saya Admin, siap membantu Anda. Apa yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 16:46:43",
+        "user": "saya lagi nyari kue ni, di sini jual kuenya apa aja ya?",
+        "bot": "Kami memiliki berbagai macam kue yang lezat! Berikut daftar kue kami:\n\nKue Lapis Legit\nBolu Pandan\nBrownies Coklat\nCheesecake Stroberi\nTiramisu\nKue Sus Vla\nDonat Coklat\nKue Cubit\nRed Velvet Cake\nKlepon\n\nMau pesan yang mana?"
+    },
+    {
+        "waktu": "2025-06-05 16:47:13",
+        "user": "apakah ada kue yang lain selain ini",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 16:47:31",
+        "user": "maksudnya dari list ini apakah ada yang lain lagi untuk kue yang di jual",
+        "bot": "Maaf, saya belum mengerti maksudnya. Boleh dijelaskan lagi?"
+    },
+    {
+        "waktu": "2025-06-05 17:08:32",
+        "user": "halo admin",
+        "bot": "Hai! Selamat datang di Toko Kue Kelompok 4. Saya Admin, siap membantu Anda. Apa yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 17:08:54",
+        "user": "saya lagi nyari kue ni, bisa rekomendasikan ga?",
+        "bot": "Kami menerima pesanan kue custom. Mau desain seperti apa?"
+    },
+    {
+        "waktu": "2025-06-05 17:09:15",
+        "user": "wah saya tidak mau kustom kue tapi mau beli kue yang sudah ada saja",
+        "bot": "Ada banyak pilihan kue: Kue Sus Vla, Donat Coklat, Klepon, Bolu Pandan, dan Red Velvet Cake. Mana yang kamu suka?"
+    },
+    {
+        "waktu": "2025-06-05 17:09:38",
+        "user": "apakah ada yang lainnya?",
+        "bot": "Berikut menu kue kami: Lapis Legit, Brownies Coklat, Cheesecake, Tiramisu, Kue Cubit, dan lainnya. Silakan dipilih!"
+    },
+    {
+        "waktu": "2025-06-05 17:10:10",
+        "user": "apa boleh lihat semua list kuenya min?",
+        "bot": "Kami punya berbagai jenis kue enak! Mulai dari Lapis Legit sampai Donat. Mau pesan berapa banyak?"
+    },
+    {
+        "waktu": "2025-06-05 17:10:47",
+        "user": "aku mau pesan kue sus vla nya 2 min",
+        "bot": "Oke, sudah kami catat pesanannya. Mau tambah pesanan lain?"
+    },
+    {
+        "waktu": "2025-06-05 17:11:02",
+        "user": "tidak ada tambahan min",
+        "bot": "Maaf, saya tidak mengerti. Bisa dijelaskan lebih detail?"
+    },
+    {
+        "waktu": "2025-06-05 17:11:17",
+        "user": "maksud saya tidak ada tambahan kue lagi min itu saja",
+        "bot": "Berikut menu kue kami: Lapis Legit, Brownies Coklat, Cheesecake, Tiramisu, Kue Cubit, dan lainnya. Silakan dipilih!"
+    },
+    {
+        "waktu": "2025-06-05 17:11:27",
+        "user": "saya mau lepis legit 1 min",
+        "bot": "Kami sudah menerima pesanan Anda. Ada tambahan lain?"
+    },
+    {
+        "waktu": "2025-06-05 17:11:34",
+        "user": "tidak",
+        "bot": "Saya belum bisa menjawab pertanyaan tersebut. Silakan coba dengan kata lain."
+    },
+    {
+        "waktu": "2025-06-05 17:13:00",
+        "user": "saya hanya ingin pesan kue lapis legit 1 saja min",
+        "bot": "Oke, sudah kami catat pesanannya. Mau tambah pesanan lain?"
+    },
+    {
+        "waktu": "2025-06-05 17:13:06",
+        "user": "tidak ada",
+        "bot": "Saya belum bisa menjawab pertanyaan tersebut. Silakan coba dengan kata lain."
+    },
+    {
+        "waktu": "2025-06-05 19:10:24",
+        "user": "hai",
+        "bot": "Selamat malam! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 19:10:34",
+        "user": "saya ingin pesan kue ni",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 19:55:42",
+        "user": "halo",
+        "bot": "Selamat malam! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 19:55:56",
+        "user": "saya lagi nyari kue ni, ada kue apa saja?",
+        "bot": "Apakah maksud Anda 'Brownies Coklat'? Harganya Rp35000"
+    },
+    {
+        "waktu": "2025-06-05 20:00:36",
+        "user": "hai",
+        "bot": "Selamat malam! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 20:00:40",
+        "user": "halo admin",
+        "bot": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "waktu": "2025-06-05 20:08:44",
+        "user": "halo",
+        "bot": "Selamat malam! Selamat datang di Toko Kue Kami. Ada yang bisa saya bantu?"
+    }
+]

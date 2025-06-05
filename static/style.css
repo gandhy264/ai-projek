@@ -1,0 +1,124 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.chat-container {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.chat-box {
+  max-height: 400px;
+  overflow-y: auto;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.chat-bubble {
+  padding: 10px 15px;
+  margin: 8px 0;
+  border-radius: 12px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user {
+  background-color: #d1e7dd;
+  text-align: right;
+  margin-left: auto;
+}
+
+.bot {
+  background-color: #f8d7da;
+  text-align: left;
+  margin-right: auto;
+}
+
+.chat-form {
+  display: flex;
+  gap: 10px;
+}
+
+.chat-form input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.chat-form button {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.chat-form button:hover {
+  background-color: #ff1493;
+}
+
+/* Tambahkan gaya untuk menu-container */
+.menu-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.menu-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.menu-button:hover {
+  background-color: #45a049;
+}
+
+.menu-dropdown {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Responsiveness */
+@media (max-width: 600px) {
+  .chat-container {
+    padding: 15px;
+  }
+
+  .menu-container {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .menu-button, .menu-dropdown {
+    width: 100%;
+  }
+
+  .chat-form {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .chat-form input[type="text"], .chat-form button {
+    width: 100%;
+  }
+}
